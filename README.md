@@ -1,5 +1,5 @@
 # TinkerCAD PIR Sensor
-![Diagram]()
+![Diagram](https://github.com/NishitMittal2004/TinkerCAD_PIR_Sensor/blob/main/Pir_sensor.png)
 
 ---
 ## TinkerCAD Link:
